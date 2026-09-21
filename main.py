@@ -15,7 +15,7 @@ while True:
     if(choice==1):
         date=input("kis date par kharcha kiya tha? :")
         categary=input("what kind of expenses? (food , travel , makeap , books):")
-        description=input("given a more diails:")
+        description=input("given a more details:")
         amount=float(input("Enter the amount:"))
 
         expenses={
